@@ -18,7 +18,7 @@ public class GenreResource {
     private GenreService service;
 
     @GetMapping
-    public ResponseEntity<List<GenreDTO>>find() {
+    public ResponseEntity<List<GenreDTO>> find() {
         List<GenreDTO> dto = service.find();
         return ResponseEntity.ok().body(dto);
     }

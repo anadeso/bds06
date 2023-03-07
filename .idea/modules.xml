@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bds06.iml" filepath="$PROJECT_DIR$/bds06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bds05/dslearn.iml" filepath="$PROJECT_DIR$/bds05/dslearn.iml" />
+    </modules>
+  </component>
+</project>
